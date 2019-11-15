@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "339838577015",
+    "firebase_url": "https://fir-chatandroidapp.firebaseio.com",
+    "project_id": "fir-chatandroidapp",
+    "storage_bucket": "fir-chatandroidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339838577015:android:277dc93451718643",
+        "android_client_info": {
+          "package_name": "com.mobilhanem.firebasechatandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339838577015-qosf23vqj80orsul7smstmmh4bmc1l22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobilhanem.firebasechatandroidapp",
+            "certificate_hash": "d21d4c613c521fc6ff887c36dac6d96770fc664a"
+          }
+        },
+        {
+          "client_id": "339838577015-glcmm9oecs360lhdd93th350tbvvejk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA95e6Ycdvw1GNb7jRy8U4qBZOZZuhgI8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339838577015-glcmm9oecs360lhdd93th350tbvvejk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
